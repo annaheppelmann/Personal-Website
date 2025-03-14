@@ -1,0 +1,39 @@
+---
+toc: false
+listing: 
+  - id: project-listing
+    contents: 
+      - "/Courses/*.qmd"  
+    sort: false
+    sort-ui: false 
+    filter-ui: true
+    type: table
+    categories: false
+---
+
+## Mathematics 
+Integration and Infinite Series 
+
+Calculus of Several Variables I 
+
+Calculus of Several Variables II 
+
+Linear Algebra 
+
+## Statistics/Data Science
+Programming with R
+
+Mathematical Statistics 
+
+Statistical Models and Data Mining
+
+Design and Analysis of Experiment 
+
+Data Analysis and Regression 
+
+## Communications 
+Communication Technology and Digital Systems
+
+Principles of Oral Communication 
+
+Sociology of Mass Communication 

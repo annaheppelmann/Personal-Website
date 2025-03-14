@@ -1,11 +1,26 @@
 ---
 title: "Anna Heppelmann"
+about: 
+  template: trestles
+  image: images/Profile Pic.jpg
+  links: 
+    - icon: github
+      text: Github
+      href: "https://github.com/annaheppelmann"
+
+    - text: LinkedIn
+      href: "https://www.linkedin.com/in/anna-heppelmann/"
+
+    - text: Email
+      href: "mailto:aheppelmann1@gmail.com"  
+      icon: inbox-fill
+
+    - text: CV
+      href: "cv/cv.pdf"  
+
+toc: false
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 3
-```
+

@@ -2,16 +2,26 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+## Summary 
+Anna is originally from a suburb of Philadelphia, Pennsylvania. She is the second oldest out of four children. In her free time, she enjoys spening time with friends and family, going to the beach, working out, and reading. She enjoys trying new restaurants and her favorite foods are pizza and sushi. 
 
 
+## Education 
 
+**University of California, Los Angeles** | 2021 - 2025 
 
-```{r}
-runif(10)
-```
+*Statistics & Data Science and Communications Double Major* 
 
+**Villa Maria Academy** | 2017-2021
+
+*High School Degree* 
+
+## Experience 
+
+**Madison Square Garden Entertainment**
+
+*Insights & Analytics Student Associate* 
+
+**Christina Relations** 
+
+*Public Relations Intern* 
