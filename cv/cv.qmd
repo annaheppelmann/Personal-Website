@@ -8,9 +8,7 @@ date: last-modified
 # address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
 email: aheppelmann1@gmail.com
 fontsize: 11pt
-github: Anna Heppelmann # github account
-orcid: 0000-0002-1825-0097 # orcid identifier
-# web: quarto.org
+github: "https://github.com/annaheppelmann" # github account
 fontawesome: yes
 nocite: '@*'
 bibliography: 
