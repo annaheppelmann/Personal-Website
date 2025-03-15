@@ -5,67 +5,29 @@ listing:
     contents: 
       - "/projects/*.qmd"  
     sort: false
-    sort-ui: false 
-    filter-ui: true
+    #sort-ui: false 
+    #filter-ui: true
     type: table
+    fields: 
+      - title
     categories: false
 
 ---
 
 ## Project 1 
 
-**Kaggle Competition: Obesity Status Prediction**
-
-*Data Analyst* 
-
-Utilized a training set consisting of 32,000 observations with 29 total predictors and cleaned data 
-
-Selected the best predictors using various methods, such as the BIC, for variable selection and found the VIF
-
-Ultimately used a Random Forest model with 10 trees, receiving a final r-squared score of 0.96 for the testing data set 
-
-[View Slides](https://docs.google.com/presentation/d/1bXzpqQ88Cw5VudjtHI64GpXE3s1FrDrBB1lj26mnuRY/edit#slide=id.g4dfce81f19_0_45)  
-
-![Project Image](images/Stats 101C Project.png)
+Here is my [Project 1](/Project1.qmd)
 
 ## Project 2
 
-**Report and Website: Covid-19's Impact on Youth Education**
-
-*Researcher and Data Visualization Specialist* 
-
-Cleaned data consisting of 33,000 entries and over 25 predictors to highlight Covid-19’s impact on education 
-
-Created interactive maps and graphs in Tableau along with a written report analyzing the findings 
-
-Utilized wireframe to build an user-friendly website that was featured on the UCLA Digital Humanities page  
-
-[View Project Timeline](https://docs.google.com/spreadsheets/d/1wO8cxyM0QKAhFXsxoPRZ-vUHmnwApvRGLEjQpqn_LxE/edit?gid=0#gid=0)  
+Here is my [Project 2](/Project2.qmd)
 
 ## Project 3 
 
-**Interview and Report on Vespa**
+Here is my [Project 3](/Project3.qmd)
 
-*Interviewer and Contributor* 
+## Project 4
 
-Strategized a potential collaboration between Vespa and Rifo for a collection of electric vehicles and leather jackets to be showcased at Fortezza de Basso in Florence, Italy 
+Here is my [Project 4](/Project4.qmd)
 
-Researched the leaders of these companies and met with the Executive VP of the Piaggio Group to learn about Vespa's future plans to target younger audiences 
 
-Created a mood board as well as a plan to target audiences with various campaigns through social media channels 
-
-[View Slides](https://www.canva.com/design/DAF00MfGQgw/yqrpNQblzXfLPpQce_tQkg/edit) 
-
-## Project 4 
-
-Set out to find possible factors that contribute to a local government being listed as "high risk" and if we could predict fiscal risks in the future using past audit data 
-
-Performed exploratory data analysis, cleaned the data, and constructed visualizations to examine the distribution of each variable 
-
-Created statistical models such as using logistic regression, Random Forest, and XGBoost to examine feature importance 
-
-Drew conclusions on the factors that are contributing to governments being "high risk" and summarized the potential impact  
-
-[View Slides](https://docs.google.com/presentation/d/1nCGF8PA5DcGqR1lnR6kG5buIvP4JF9hZyGUAUtmQ5zM/edit#slide=id.p) 
-
-![Project Image](images/Stat 140x image.png)

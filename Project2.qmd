@@ -1,0 +1,16 @@
+---
+title: "Project2"
+editor: visual
+---
+
+**Report and Website: Covid-19's Impact on Youth Education**
+
+*Researcher and Data Visualization Specialist* 
+
+Cleaned data consisting of 33,000 entries and over 25 predictors to highlight Covid-19’s impact on education 
+
+Created interactive maps and graphs in Tableau along with a written report analyzing the findings 
+
+Utilized wireframe to build an user-friendly website that was featured on the UCLA Digital Humanities page  
+
+[View Project Timeline](https://docs.google.com/spreadsheets/d/1wO8cxyM0QKAhFXsxoPRZ-vUHmnwApvRGLEjQpqn_LxE/edit?gid=0#gid=0) 

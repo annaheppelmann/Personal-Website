@@ -1,0 +1,18 @@
+---
+title: "Project 1"
+editor: visual
+---
+
+**Kaggle Competition: Obesity Status Prediction**
+
+*Data Analyst* 
+
+Utilized a training set consisting of 32,000 observations with 29 total predictors and cleaned data 
+
+Selected the best predictors using various methods, such as the BIC, for variable selection and found the VIF
+
+Ultimately used a Random Forest model with 10 trees, receiving a final r-squared score of 0.96 for the testing data set 
+
+[View Slides](https://docs.google.com/presentation/d/1bXzpqQ88Cw5VudjtHI64GpXE3s1FrDrBB1lj26mnuRY/edit#slide=id.g4dfce81f19_0_45)  
+
+![Project Image](images/Stats 101C Project.png)

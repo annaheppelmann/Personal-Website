@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Anna is originally from a suburb of Philadelphia, Pennsylvania. She is the second oldest out of four children. In her free time, she enjoys spening time with friends and family, going to the beach, working out, and reading. She enjoys trying new restaurants and her favorite foods are pizza and sushi."
+    "text": "University of California, Los Angeles | 2021 - 2025\nStatistics & Data Science and Communications Double Major\nVilla Maria Academy | 2017-2021\nHigh School Degree"
   },
   {
     "objectID": "index.html",
@@ -18,35 +18,35 @@
     "href": "Projects.html",
     "title": "Anna's Website",
     "section": "",
-    "text": "Kaggle Competition: Obesity Status Prediction\nData Analyst\nUtilized a training set consisting of 32,000 observations with 29 total predictors and cleaned data\nSelected the best predictors using various methods, such as the BIC, for variable selection and found the VIF\nUltimately used a Random Forest model with 10 trees, receiving a final r-squared score of 0.96 for the testing data set\nView Slides\n\n\n\nProject Image"
+    "text": "Here is my Project 1"
   },
   {
     "objectID": "Projects.html#project-1",
     "href": "Projects.html#project-1",
     "title": "Anna's Website",
     "section": "",
-    "text": "Kaggle Competition: Obesity Status Prediction\nData Analyst\nUtilized a training set consisting of 32,000 observations with 29 total predictors and cleaned data\nSelected the best predictors using various methods, such as the BIC, for variable selection and found the VIF\nUltimately used a Random Forest model with 10 trees, receiving a final r-squared score of 0.96 for the testing data set\nView Slides\n\n\n\nProject Image"
+    "text": "Here is my Project 1"
   },
   {
     "objectID": "Projects.html#project-2",
     "href": "Projects.html#project-2",
     "title": "Anna's Website",
     "section": "Project 2",
-    "text": "Project 2\nReport and Website: Covid-19’s Impact on Youth Education\nResearcher and Data Visualization Specialist\nCleaned data consisting of 33,000 entries and over 25 predictors to highlight Covid-19’s impact on education\nCreated interactive maps and graphs in Tableau along with a written report analyzing the findings\nUtilized wireframe to build an user-friendly website that was featured on the UCLA Digital Humanities page\nView Project Timeline"
+    "text": "Project 2\nHere is my Project 2"
   },
   {
     "objectID": "Projects.html#project-3",
     "href": "Projects.html#project-3",
     "title": "Anna's Website",
     "section": "Project 3",
-    "text": "Project 3\nInterview and Report on Vespa\nInterviewer and Contributor\nStrategized a potential collaboration between Vespa and Rifo for a collection of electric vehicles and leather jackets to be showcased at Fortezza de Basso in Florence, Italy\nResearched the leaders of these companies and met with the Executive VP of the Piaggio Group to learn about Vespa’s future plans to target younger audiences\nCreated a mood board as well as a plan to target audiences with various campaigns through social media channels\nView Slides"
+    "text": "Project 3\nHere is my Project 3"
   },
   {
     "objectID": "Projects.html#project-4",
     "href": "Projects.html#project-4",
     "title": "Anna's Website",
     "section": "Project 4",
-    "text": "Project 4\nSet out to find possible factors that contribute to a local government being listed as “high risk” and if we could predict fiscal risks in the future using past audit data\nPerformed exploratory data analysis, cleaned the data, and constructed visualizations to examine the distribution of each variable\nCreated statistical models such as using logistic regression, Random Forest, and XGBoost to examine feature importance\nDrew conclusions on the factors that are contributing to governments being “high risk” and summarized the potential impact\nView Slides\n\n\n\nProject Image"
+    "text": "Project 4\nHere is my Project 4"
   },
   {
     "objectID": "about.html#about-anna",
@@ -59,8 +59,8 @@
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | 2021 - 2025\nStatistics & Data Science and Communications Double Major\nVilla Maria Academy | 2017-2021\nHigh School Degree"
+    "section": "",
+    "text": "University of California, Los Angeles | 2021 - 2025\nStatistics & Data Science and Communications Double Major\nVilla Maria Academy | 2017-2021\nHigh School Degree"
   },
   {
     "objectID": "about.html#summary",
@@ -131,5 +131,33 @@
     "title": "GNU General Public License",
     "section": "",
     "text": "If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.\nTo do so, attach the following notices to the program. It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; and each file should have at least the “copyright” line and a pointer to where the full notice is found.\n&lt;one line to give the program's name and a brief idea of what it does.&gt;\nCopyright (C) &lt;year&gt;  &lt;name of author&gt;\n\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.\nAlso add information on how to contact you by electronic and paper mail.\nIf the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:\n&lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;\nThis program comes with ABSOLUTELY NO WARRANTY; for details type 'show w'.\nThis is free software, and you are welcome to redistribute it\nunder certain conditions; type 'show c' for details.\nThe hypothetical commands show w and show c should show the appropriate parts of the General Public License. Of course, your program’s commands might be different; for a GUI interface, you would use an “about box”.\nYou should also get your employer (if you work as a programmer) or school, if any, to sign a “copyright disclaimer” for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see &lt;http://www.gnu.org/licenses/&gt;.\nThe GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read &lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;."
+  },
+  {
+    "objectID": "Project1.html",
+    "href": "Project1.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "Kaggle Competition: Obesity Status Prediction\nData Analyst\nUtilized a training set consisting of 32,000 observations with 29 total predictors and cleaned data\nSelected the best predictors using various methods, such as the BIC, for variable selection and found the VIF\nUltimately used a Random Forest model with 10 trees, receiving a final r-squared score of 0.96 for the testing data set\nView Slides\n\n\n\nProject Image"
+  },
+  {
+    "objectID": "Project2.html",
+    "href": "Project2.html",
+    "title": "Project2",
+    "section": "",
+    "text": "Report and Website: Covid-19’s Impact on Youth Education\nResearcher and Data Visualization Specialist\nCleaned data consisting of 33,000 entries and over 25 predictors to highlight Covid-19’s impact on education\nCreated interactive maps and graphs in Tableau along with a written report analyzing the findings\nUtilized wireframe to build an user-friendly website that was featured on the UCLA Digital Humanities page\nView Project Timeline"
+  },
+  {
+    "objectID": "Project3.html",
+    "href": "Project3.html",
+    "title": "Project3",
+    "section": "",
+    "text": "Interview and Report on Vespa\nInterviewer and Contributor\nStrategized a potential collaboration between Vespa and Rifo for a collection of electric vehicles and leather jackets to be showcased at Fortezza de Basso in Florence, Italy\nResearched the leaders of these companies and met with the Executive VP of the Piaggio Group to learn about Vespa’s future plans to target younger audiences\nCreated a mood board as well as a plan to target audiences with various campaigns through social media channels\nView Slides"
+  },
+  {
+    "objectID": "Project4.html",
+    "href": "Project4.html",
+    "title": "Project4",
+    "section": "",
+    "text": "Stats 140XP Final Project Data Analyst and Presenter\nSet out to find possible factors that contribute to a local government being listed as “high risk” and if we could predict fiscal risks in the future using past audit data\nPerformed exploratory data analysis, cleaned the data, and constructed visualizations to examine the distribution of each variable\nCreated statistical models such as using logistic regression, Random Forest, and XGBoost to examine feature importance\nDrew conclusions on the factors that are contributing to governments being “high risk” and summarized the potential impact\nView Slides\n\n\n\nProject Image"
   }
 ]
