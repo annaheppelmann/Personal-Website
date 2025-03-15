@@ -1,19 +1,18 @@
 ---
-title: "Project4"
+title: "Project 4"
 editor: visual
 ---
 
-**Stats 140XP Final Project** 
-*Data Analyst and Presenter*
+**Stats 140XP Final Project** *Data Analyst and Presenter*
 
-Set out to find possible factors that contribute to a local government being listed as "high risk" and if we could predict fiscal risks in the future using past audit data 
+Set out to find possible factors that contribute to a local government being listed as "high risk" and if we could predict fiscal risks in the future using past audit data
 
-Performed exploratory data analysis, cleaned the data, and constructed visualizations to examine the distribution of each variable 
+Performed exploratory data analysis, cleaned the data, and constructed visualizations to examine the distribution of each variable
 
-Created statistical models such as using logistic regression, Random Forest, and XGBoost to examine feature importance 
+Created statistical models such as using logistic regression, Random Forest, and XGBoost to examine feature importance
 
-Drew conclusions on the factors that are contributing to governments being "high risk" and summarized the potential impact  
+Drew conclusions on the factors that are contributing to governments being "high risk" and summarized the potential impact
 
-[View Slides](https://docs.google.com/presentation/d/1nCGF8PA5DcGqR1lnR6kG5buIvP4JF9hZyGUAUtmQ5zM/edit#slide=id.p) 
+[View Slides](https://docs.google.com/presentation/d/1nCGF8PA5DcGqR1lnR6kG5buIvP4JF9hZyGUAUtmQ5zM/edit#slide=id.p)
 
-![Project Image](images/Stat 140x image.png)
+![Project Image](images/Stat%20140x%20image.png)
